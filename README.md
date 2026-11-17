@@ -1,1 +1,1 @@
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250">
+<img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRydXdra2p0bWN5djNpN2s0b3NmMDBkZnlvbDlmY3VudTM1eTNmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/774uK11mxE3W0cjE8L/giphy.gif)" width="250">
